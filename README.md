@@ -13,11 +13,11 @@ Depending on practicability, this list is subject to change.
 
 - seafile http://seafile.com/en/home/
 
-Groupware: 
+### Groupware: 
 
 - Kolab http://kolab.org/
 
-ERP: 
+### ERP: 
 
 - Odoo (formerly OpenERP) https://www.odoo.com/
 
@@ -25,7 +25,7 @@ ERP:
 
 - Suite CRM (fork of SugarCRM) https://suitecrm.com/
 
-Ticketsystem: (bugtracker, helpdesk, change management)
+### Ticketsystem: (bugtracker, helpdesk, change management)
 
 - RT https://www.bestpractical.com/rt/
 
