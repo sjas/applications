@@ -110,6 +110,10 @@ Depending on practicability, this list is subject to change.
 
 - OpenLDAP http://www.openldap.org/
 
+### Single-Sign On
+
+- Kerberos http://techpubs.spinlocksolutions.com/dklar/kerberos.html http://web.mit.edu/kerberos/
+
 ### Monitoring:
 
 - Icinga2 https://www.icinga.org/icinga/icinga-2/
