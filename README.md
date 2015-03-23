@@ -80,6 +80,10 @@ Depending on practicability, this list is subject to change.
 
 ## Infrastructure
 
+### Virtualization:
+
+- Proxmox http://www.proxmox.com/ (on server)
+
 ### Provisioning:
 
 - Vagrant https://www.vagrantup.com/
@@ -93,7 +97,3 @@ Depending on practicability, this list is subject to change.
 ### PXE:
 
 - Cobbler http://www.cobblerd.org/
-
-### Virtualization:
-
-- Proxmox http://www.proxmox.com/ (on server)
