@@ -97,6 +97,7 @@ Depending on practicability, this list is subject to change.
 
 - Ansible http://www.ansible.com (agent-less, just SSH needed)
 - Puppet (with agent) https://puppetlabs.com/
+- Foreman http://www.theforeman.org/ (frontend for puppet, and possibly ansible, too)
 
 ### PXE:
 
