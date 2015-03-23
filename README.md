@@ -51,7 +51,7 @@ Depending on practicability, this list is subject to change.
 
 - ProjectLibre http://www.projectlibre.org/
 
-## networking
+## Infrastructure
 
 ### Firewall / Router / VPN all-in-one:
 
@@ -65,24 +65,6 @@ Depending on practicability, this list is subject to change.
 ### IDS / IPS:
 
 - Snort https://www.snort.org/
-
-### Vulnerability Scanner:
-
-- OpenVAS http://www.openvas.org/
-
-### LDAP:
-
-- OpenLDAP http://www.openldap.org/
-
-### Monitoring:
-
-- Icinga2 https://www.icinga.org/icinga/icinga-2/
-
-### Backup:
-
-- Bacula http://www.bacula.org/
-
-## Infrastructure
 
 ### Virtualization:
 
@@ -101,3 +83,27 @@ Depending on practicability, this list is subject to change.
 ### PXE:
 
 - Cobbler http://www.cobblerd.org/
+
+### Vulnerability Scanner:
+
+- OpenVAS http://www.openvas.org/
+
+### LDAP:
+
+- OpenLDAP http://www.openldap.org/
+
+### Monitoring:
+
+- Icinga2 https://www.icinga.org/icinga/icinga-2/
+
+### Backup:
+
+- Bacula http://www.bacula.org/
+
+### Storage:
+
+- FreeNAS http://www.freenas.org/
+
+### Logging:
+
+- Octopussy http://www.octopussy.pm/
