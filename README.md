@@ -9,86 +9,86 @@ Depending on practicability, this list is subject to change.
 
 ## server-based applications
 
-Dropbox:
+### Dropbox:
 
-### seafile http://seafile.com/en/home/
+- seafile http://seafile.com/en/home/
 
 Groupware: 
 
-### Kolab http://kolab.org/
+- Kolab http://kolab.org/
 
 ERP: 
 
-### Odoo (formerly OpenERP) https://www.odoo.com/
+- Odoo (formerly OpenERP) https://www.odoo.com/
 
-CRM:
+### CRM:
 
-### Suite CRM (fork of SugarCRM) https://suitecrm.com/
+- Suite CRM (fork of SugarCRM) https://suitecrm.com/
 
 Ticketsystem: (bugtracker, helpdesk, change management)
 
-### RT https://www.bestpractical.com/rt/
+- RT https://www.bestpractical.com/rt/
 
-Code Repository Hosting:
+### Code Repository Hosting:
 
-### GitLab https://about.gitlab.com/
+- GitLab https://about.gitlab.com/
 
-SCM: 
+### SCM: 
 
-### Ansible http://www.ansible.com (agent-less, just SSH needed)
-### Puppet (with agent) https://puppetlabs.com/
+- Ansible http://www.ansible.com (agent-less, just SSH needed)
+- Puppet (with agent) https://puppetlabs.com/
 
-PXE:
+### PXE:
 
-### Cobbler http://www.cobblerd.org/
+- Cobbler http://www.cobblerd.org/
 
-PBX: 
+### PBX: 
 
-### Asterisk http://www.asterisk.org/
+- Asterisk http://www.asterisk.org/
 
 ## client applications
 
-Virtualization:
+### Virtualization:
 
-### VirtualBox https://www.virtualbox.org/ (on workstations)
+- VirtualBox https://www.virtualbox.org/ (on workstations)
 
-MS Project:
+### MS Project:
 
-### ProjectLibre http://www.projectlibre.org/
+- ProjectLibre http://www.projectlibre.org/
 
 ## networking
 
-Firewall / Router / VPN all-in-one:
+### Firewall / Router / VPN all-in-one:
 
-### PFSense https://www.pfsense.org/
+- PFSense https://www.pfsense.org/
 
-VPN: 
+### VPN: 
 
-### OpenVPN https://openvpn.net/s://openvpn.net/
-### strongSwan https://strongswan.org/
+- OpenVPN https://openvpn.net/s://openvpn.net/
+- strongSwan https://strongswan.org/
 
-IDS / IPS:
+### IDS / IPS:
 
-### Snort https://www.snort.org/
+- Snort https://www.snort.org/
 
-Vulnerability Scanner:
+### Vulnerability Scanner:
 
-### OpenVAS http://www.openvas.org/
+- OpenVAS http://www.openvas.org/
 
-LDAP:
+### LDAP:
 
-### OpenLDAP http://www.openldap.org/
+- OpenLDAP http://www.openldap.org/
 
-Monitoring:
+### Monitoring:
 
-### Icinga2 https://www.icinga.org/icinga/icinga-2/
+- Icinga2 https://www.icinga.org/icinga/icinga-2/
 
-Backup:
+### Backup:
 
-### Bacula http://www.bacula.org/
+- Bacula http://www.bacula.org/
 
 ## Infrastructure
 
-Virtualization:
+### Virtualization:
 
-### Proxmox http://www.proxmox.com/ (on server)
+- Proxmox http://www.proxmox.com/ (on server)
