@@ -37,9 +37,21 @@ Depending on practicability, this list is subject to change.
 
 - Asterisk http://www.asterisk.org/
 
+### Wiki:
+
+- dokuwiki https://www.dokuwiki.org
+
 ### ICQ / Jabber / XMPP:
 
 - Openfire http://www.igniterealtime.org/downloads
+
+### Webserver
+
+- Apache httpd https://httpd.apache.org/
+
+### Indexing
+
+- Elasticsearch https://www.elastic.co/products/elasticsearch
 
 ## client applications
 
@@ -52,6 +64,12 @@ Depending on practicability, this list is subject to change.
 - ProjectLibre http://www.projectlibre.org/
 
 ## Infrastructure
+
+### CMDB / configuration management database:
+
+- I doit http://www.i-doit.com/
+- lldpd http://vincentbernat.github.io/lldpd/
+- OpenLLDP http://openlldp.sourceforge.net/
 
 ### Firewall / Router / VPN all-in-one:
 
@@ -95,15 +113,20 @@ Depending on practicability, this list is subject to change.
 ### Monitoring:
 
 - Icinga2 https://www.icinga.org/icinga/icinga-2/
+- Graphite https://github.com/graphite-project/graphite-web (for visualization)
+- Cacti http://cacti.net/
 
 ### Backup:
 
 - Bacula http://www.bacula.org/
+- Bareos https://www.bareos.org/en/
 
 ### Storage:
 
 - FreeNAS http://www.freenas.org/
+- GlusterFS http://www.gluster.org/
+- Ceph http://ceph.com/
 
 ### Logging:
 
-- Octopussy http://www.octopussy.pm/
+- LogStash http://logstash.net/
