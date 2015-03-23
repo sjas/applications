@@ -1,4 +1,4 @@
-# README
+# README application list compilation
 
 This file contains a list of opensource applications for SMB's (small to medium
 busnesses) and other infrastructure-related applications.
@@ -32,15 +32,6 @@ Depending on practicability, this list is subject to change.
 ### Code Repository Hosting:
 
 - GitLab https://about.gitlab.com/
-
-### SCM: 
-
-- Ansible http://www.ansible.com (agent-less, just SSH needed)
-- Puppet (with agent) https://puppetlabs.com/
-
-### PXE:
-
-- Cobbler http://www.cobblerd.org/
 
 ### PBX: 
 
@@ -88,6 +79,20 @@ Depending on practicability, this list is subject to change.
 - Bacula http://www.bacula.org/
 
 ## Infrastructure
+
+### Provisioning:
+
+- Vagrant https://www.vagrantup.com/
+- Proxmox-Vagrant Adapter https://github.com/telcat/vagrant-proxmox
+
+### SCM: 
+
+- Ansible http://www.ansible.com (agent-less, just SSH needed)
+- Puppet (with agent) https://puppetlabs.com/
+
+### PXE:
+
+- Cobbler http://www.cobblerd.org/
 
 ### Virtualization:
 
