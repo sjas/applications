@@ -37,6 +37,10 @@ Depending on practicability, this list is subject to change.
 
 - Asterisk http://www.asterisk.org/
 
+### ICQ / Jabber / XMPP:
+
+- Openfire http://www.igniterealtime.org/downloads
+
 ## client applications
 
 ### Virtualization:
