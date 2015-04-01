@@ -45,6 +45,9 @@ Depending on practicability, this list is subject to change.
 
 - Openfire http://www.igniterealtime.org/downloads
 
+### Mailing List Server
+
+- sympa http://www.sympa.org/
 ### Webserver
 
 - Apache httpd https://httpd.apache.org/
