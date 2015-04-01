@@ -7,7 +7,7 @@ A complete suite (or distribution) would make sense, I guess.
 These are in no particular order.
 Depending on practicability, this list is subject to change.
 
-## server-based applications
+# server-based applications
 
 ### Dropbox:
 
@@ -48,6 +48,7 @@ Depending on practicability, this list is subject to change.
 ### Mailing List Server
 
 - sympa http://www.sympa.org/
+
 ### Webserver
 
 - Apache httpd https://httpd.apache.org/
@@ -56,7 +57,7 @@ Depending on practicability, this list is subject to change.
 
 - Elasticsearch https://www.elastic.co/products/elasticsearch
 
-## client applications
+# client applications
 
 ### Virtualization:
 
