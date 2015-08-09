@@ -84,6 +84,10 @@ Depending on practicability, this list is subject to change.
 - OpenVPN https://openvpn.net/s://openvpn.net/
 - strongSwan https://strongswan.org/
 
+### DNS
+
+- bind9 http://www.isc.org/downloads/bind/
+
 ### IDS / IPS:
 
 - Snort https://www.snort.org/
@@ -124,6 +128,8 @@ Depending on practicability, this list is subject to change.
 - Icinga2 https://www.icinga.org/icinga/icinga-2/
 - Graphite https://github.com/graphite-project/graphite-web (for visualization)
 - Cacti http://cacti.net/
+- munin http://munin-monitoring.org/
+- naemon + thruk http://www.naemon.org/ http://www.thruk.org/
 
 ### Backup:
 
@@ -139,3 +145,4 @@ Depending on practicability, this list is subject to change.
 ### Logging:
 
 - LogStash http://logstash.net/
+- octopussy http://www.octopussy.pm/
