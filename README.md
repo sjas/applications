@@ -88,9 +88,14 @@ Depending on practicability, this list is subject to change.
 
 - bind9 http://www.isc.org/downloads/bind/
 
-### IDS / IPS:
+### IDS / IPS and HIDS:
 
 - Snort https://www.snort.org/
+- suricata http://suricata-ids.org/
+- Bro https://www.bro.org/
+
+- samhain http://www.la-samhna.de/samhain/
+- AIDE http://aide.sourceforge.net/
 
 ### Virtualization:
 
