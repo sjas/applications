@@ -151,3 +151,13 @@ Depending on practicability, this list is subject to change.
 
 - LogStash http://logstash.net/
 - octopussy http://www.octopussy.pm/
+
+# forensics
+
+## hexeditors / hexviewers (for linux)
+
+ - ht
+ - shed
+ - bless
+ - wxhexeditor
+ - okteta
