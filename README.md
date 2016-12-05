@@ -1,4 +1,4 @@
-# application compilation
+# applications
 
 This file contains a list of opensource applications for SMB's (small to medium
 businesses), front- as well as backends, so to speak.
